@@ -1,7 +1,8 @@
 ## 안녕하세요! 모두와 함께 배우고 듣는 서버 개발자 김준화입니다.👋
 
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=r44433)
+<div align = center>
+  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=r44433)
+</div>
 
 <!--
 **kimsee8200/kimsee8200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
