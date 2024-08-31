@@ -1,8 +1,9 @@
 ## 안녕하세요! 모두와 함께 배우고 듣는 서버 개발자 김준화입니다.👋
 
-<div align = center>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=r44433)](https://solved.ac/r44433)
-</div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=r44433)](https://solved.ac/r44433)
+[!['kimsee8200's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsee8200)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kimsee8200/kimsee8200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
