@@ -1,4 +1,4 @@
-## 안녕하세요! 모두와 함께 배우고 듣는 서버 개발자 김준화입니다.👋
+## 안녕하세요! 모두와 함께 배우고 듣는 서버 개발자 김준화입니다! 👋
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=r44433)](https://solved.ac/r44433)
